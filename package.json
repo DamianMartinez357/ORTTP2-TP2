@@ -1,0 +1,19 @@
+{
+  "name": "orttp2-tp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamianMartinez357/ORTTP2-TP2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamianMartinez357/ORTTP2-TP2/issues"
+  },
+  "homepage": "https://github.com/DamianMartinez357/ORTTP2-TP2#readme"
+}
