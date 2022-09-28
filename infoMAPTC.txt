@@ -1,0 +1,23 @@
+{
+	"contenidoStr": "{\n  \"name\": \"orttp2-tp2\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/DamianMartinez357/ORTTP2-TP2.git\"\n  },\n  \"author\": \"\",\n  \"license\": \"ISC\",\n  \"bugs\": {\n    \"url\": \"https://github.com/DamianMartinez357/ORTTP2-TP2/issues\"\n  },\n  \"homepage\": \"https://github.com/DamianMartinez357/ORTTP2-TP2#readme\"\n}\n",
+	"contenidoObj": {
+		"name": "orttp2-tp2",
+		"version": "1.0.0",
+		"description": "",
+		"main": "index.js",
+		"scripts": {
+			"test": "echo \"Error: no test specified\" && exit 1"
+		},
+		"repository": {
+			"type": "git",
+			"url": "git+https://github.com/DamianMartinez357/ORTTP2-TP2.git"
+		},
+		"author": "",
+		"license": "ISC",
+		"bugs": {
+			"url": "https://github.com/DamianMartinez357/ORTTP2-TP2/issues"
+		},
+		"homepage": "https://github.com/DamianMartinez357/ORTTP2-TP2#readme"
+	},
+	"size": 474
+}
